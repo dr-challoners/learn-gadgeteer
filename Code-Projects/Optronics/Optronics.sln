@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Optronics", "Optronics.vbproj", "{3B0C3E2B-9725-4633-96CC-9A0865FF5435}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B0C3E2B-9725-4633-96CC-9A0865FF5435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0C3E2B-9725-4633-96CC-9A0865FF5435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0C3E2B-9725-4633-96CC-9A0865FF5435}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3B0C3E2B-9725-4633-96CC-9A0865FF5435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0C3E2B-9725-4633-96CC-9A0865FF5435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B0C3E2B-9725-4633-96CC-9A0865FF5435}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
